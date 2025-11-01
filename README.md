@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andriyborkovich&label=Profile%20views&color=0e75b6&style=flat" alt="andriyborkovich" /> </p>
 
-- 🔭 I’m currently working on [MentorSync](https://github.com/AndriyBorkovich/mentor-sync) and EvenFlow
+- 🔭 I’m currently working on [MentorSync](https://github.com/AndriyBorkovich/mentor-sync) and [EvenFlow AI](https://evenflow.ai/)
 
 - 🌱 I’m currently learning **React, AWS**
 
