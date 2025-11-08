@@ -11,12 +11,12 @@
 
 - 📫 How to reach me **borkovich25andri@gmail.com**
 
-- 📄 Know about my experiences [Canva link](https://www.canva.com/design/DAFlnn4SQSk/vYKnn8v4JD32IVh5zDBLIw/edit?utm_content=DAFlnn4SQSk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [CV link](https://www.canva.com/design/DAFlnn4SQSk/vYKnn8v4JD32IVh5zDBLIw/edit?utm_content=DAFlnn4SQSk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/andriyborkovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andriyborkovich" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrii-borkovych" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrii-borkovych" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andrii-borkovych-154b6815a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrii-borkovych" height="30" width="40" /></a>
 <a href="https://medium.com/@borkovich25andri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@borkovich25andri" height="30" width="40" /></a>
 </p>
 
