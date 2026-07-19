@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
-<h3 align="center">A passionate full-stack engineer (.NET + React)</h3>
+<h3 align="center">A passionate full-stack engineer</h3>
 
-- 🔭 I’m currently working on [MentorSync](https://github.com/AndriyBorkovich/mentor-sync) and [EvenFlow AI](https://evenflow.ai/)
+- 🔭 I’m currently working on [MentorSync](https://github.com/AndriyBorkovich/mentor-sync)
 
 - 🌱 I’m currently learning **React, AWS**
 
