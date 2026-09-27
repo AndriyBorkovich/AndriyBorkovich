@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MentorSync](https://github.com/AndriyBorkovich/mentor-sync)
 
-- 🌱 I’m currently learning **React, AWS**
+- 🌱 I’m currently learning **React, Azure, AI-driven development**
 
 - 💬 Ask me about **.NET, React, Databases, Cloud**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/andriyborkovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andriyborkovich" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/andrii-borkovych-154b6815a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrii-borkovych" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andrii-borkovych/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrii-borkovych" height="30" width="40" /></a>
 <a href="https://medium.com/@borkovich25andri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@borkovich25andri" height="30" width="40" /></a>
 </p>
 
